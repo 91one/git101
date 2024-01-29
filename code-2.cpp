@@ -2,5 +2,5 @@
 using namespace std;
 
 int main(){
-    cout << "Sup Git" << endl;
+    cout << "Sup C++++++" << endl;
 }
